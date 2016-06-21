@@ -1,0 +1,3 @@
+[submodule "githubteacher-submodule"]
+	path = githubteacher-submodule
+	url = https://github.com/ectomort/githubteacher-submodule.git
